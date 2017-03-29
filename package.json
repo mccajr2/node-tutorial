@@ -5,7 +5,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
+  "author": "Jay",
   "license": "ISC",
   "repository": {
     "type": "git",
@@ -15,8 +15,9 @@
     "url": "https://github.com/mccajr2/node-tutorial/issues"
   },
   "homepage": "https://github.com/mccajr2/node-tutorial#readme",
-  "description": "",
+  "description": "NPM tutorial stuff",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {}
 }
